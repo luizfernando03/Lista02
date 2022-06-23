@@ -1,0 +1,2 @@
+# lista-2
+LISTA DE EXERCÍCIOS 2 
